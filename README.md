@@ -1,8 +1,8 @@
-# A-B-Testing
+# A | B Testing
 
-# A/B Testing for Improving User Engagement at TechSavvy Inc.
+## A/B Testing for Improving User Engagement at **TechSavvy Inc.**
 
-## Introduction
+### Introduction
 
 In today's competitive e-commerce landscape, user engagement is crucial for driving sales and customer loyalty. **TechSavvy Inc.**, a fictional online retailer of tech gadgets, noticed a decline in user engagement on their product pages. The company wanted to explore whether changing the **"Add to Cart"** button color from blue to green would increase user engagement and conversions.
 
