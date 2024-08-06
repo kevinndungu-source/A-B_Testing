@@ -4,13 +4,14 @@
 
 ## Introduction
 
-In today's competitive e-commerce landscape, user engagement is crucial for driving sales and customer loyalty. TechSavvy Inc., a fictional online retailer of tech gadgets, noticed a decline in user engagement on their product pages. The company wanted to explore whether changing the "Add to Cart" button color from blue to green would increase user engagement and conversions.
+In today's competitive e-commerce landscape, user engagement is crucial for driving sales and customer loyalty. **TechSavvy Inc.**, a fictional online retailer of tech gadgets, noticed a decline in user engagement on their product pages. The company wanted to explore whether changing the **"Add to Cart"** button color from blue to green would increase user engagement and conversions.
 
-I, Kevin Ndungu, an experienced AWS Certified Solutions Architect and Data Analyst, was brought in to tackle this problem. Leveraging my expertise in A/B testing, data analysis, and business intelligence, I devised a comprehensive plan to address TechSavvy Inc.'s challenge.
+I, Kevin, an experienced AWS Certified Solutions Architect and Data Analyst, was brought in to tackle this problem. Leveraging my expertise in A/B testing, data analysis, and business intelligence, I devised a comprehensive plan to address TechSavvy Inc.'s challenge.
+
 
 ## Understanding the Problem
 
-TechSavvy Inc. had observed that users were spending less time on product pages and that the click-through rate for the "Add to Cart" button had decreased. The goal was to test a hypothesis: would a green "Add to Cart" button capture more user attention and encourage more clicks compared to the existing blue button?
+**TechSavvy Inc.** had observed that users were spending less time on product pages and that the click-through rate for the "Add to Cart" button had decreased. The goal was to test a hypothesis: would a green "Add to Cart" button capture more user attention and encourage more clicks compared to the existing blue button?
 
 **Objective**: Increase user engagement and conversion rates by optimizing the "Add to Cart" button color.
 
@@ -18,13 +19,15 @@ TechSavvy Inc. had observed that users were spending less time on product pages 
 
 ## Step-by-Step Solution
 
-### 1. Define Hypothesis
+### 1. **Define Hypothesis**
 
 I proposed the following hypothesis:
 - **Null Hypothesis (H0)**: Changing the button color has no effect on user engagement.
 - **Alternative Hypothesis (H1)**: Changing the button color increases user engagement.
 
-### 2. Design the Experiment
+
+
+### 2. **Design the Experiment**
 
 I designed an A/B test to compare two versions of the product page:
 - **Version A (Control)**: Product page with a blue "Add to Cart" button.
@@ -32,7 +35,9 @@ I designed an A/B test to compare two versions of the product page:
 
 Users would be randomly assigned to one of the two versions to ensure unbiased results.
 
-### 3. Simulate Data Collection
+
+
+### 3. **Simulate Data Collection**
 
 To prepare for the experiment, I simulated a dataset representing user interactions. The dataset included:
 - `user_id`: Unique identifier for each user.
@@ -68,7 +73,8 @@ data['session_duration'][treatment_mask] += 5
 df = pd.DataFrame(data)
 ```
 
-### 4. Analyze the Results
+
+### 4. **Analyze the Results**
 
 I calculated the conversion rates and performed statistical tests to compare the engagement rates between the two groups.
 
@@ -93,9 +99,10 @@ print(f"T-Statistic: {t_stat:.2f}")
 print(f"P-Value (t-test): {p_value_ttest:.4f}")
 print(f"Chi-Square Statistic: {chi2_stat:.2f}")
 print(f"P-Value (chi-square): {p_value_chi2:.4f}")
+```
 
 
-### 5. Visualize the Findings
+### 5. **Visualize the Findings**
 
 I created visualizations to illustrate the differences in conversion rates and session durations between the two groups.
 
@@ -120,9 +127,10 @@ plt.ylabel('Session Duration (seconds)')
 
 plt.tight_layout()
 plt.show()
+```
 
 
-### 6. Draw Conclusions
+### 6. **Draw Conclusions**
 
 Based on the statistical analysis, I determined whether the change in button color had a significant effect on user engagement.
 
@@ -133,21 +141,25 @@ if p_value_ttest < alpha and p_value_chi2 < alpha:
     print("Reject the null hypothesis. The button color change has a significant effect on user engagement.")
 else:
     print("Fail to reject the null hypothesis. The button color change does not have a significant effect on user engagement.")
+```
 
 
-### Impact and Insights
+### **Impact and Insights**
 
 Through this A/B testing project, I demonstrated my ability to:
-Identify and define a problem: Addressing the decline in user engagement.
 
-Design an experiment: Creating a robust A/B test to gather meaningful data.
+- Identify and define a problem: Addressing the decline in user engagement.
 
-Analyze data: Using statistical methods to derive insights from user interactions.Visualize findings: Effectively communicating results through visualizations.
+- Design an experiment: Creating a robust A/B test to gather meaningful data.
 
-Draw actionable conclusions: Providing evidence-based recommendations for improving user engagement.
+- Analyze data: Using statistical methods to derive insights from user interactions.Visualize findings: Effectively communicating results through visualizations.
+
+- Draw actionable conclusions: Providing evidence-based recommendations for improving user engagement.
 
 By adopting this structured approach, TechSavvy Inc. gained valuable insights into user behavior, enabling them to make data-driven decisions to enhance their product pages and boost overall engagement.
 
-NB: TechSavvy Inc. is a fictional company created for the purpose of this A/B testing project demonstration.
 
+>**NB:** *TechSavvy Inc.* is a fictional company created for the purpose of this A/B testing project demonstration.
+
+---
 
