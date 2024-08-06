@@ -66,8 +66,7 @@ data['clicked_add_to_cart'][treatment_mask] = np.random.binomial(1, 0.12, treatm
 data['session_duration'][treatment_mask] += 5
 
 df = pd.DataFrame(data)
-
-
+```
 
 ### 4. Analyze the Results
 
