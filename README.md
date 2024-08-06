@@ -134,3 +134,21 @@ if p_value_ttest < alpha and p_value_chi2 < alpha:
     print("Reject the null hypothesis. The button color change has a significant effect on user engagement.")
 else:
     print("Fail to reject the null hypothesis. The button color change does not have a significant effect on user engagement.")
+
+
+### Impact and Insights
+
+Through this A/B testing project, I demonstrated my ability to:
+Identify and define a problem: Addressing the decline in user engagement.
+
+Design an experiment: Creating a robust A/B test to gather meaningful data.
+
+Analyze data: Using statistical methods to derive insights from user interactions.Visualize findings: Effectively communicating results through visualizations.
+
+Draw actionable conclusions: Providing evidence-based recommendations for improving user engagement.
+
+By adopting this structured approach, TechSavvy Inc. gained valuable insights into user behavior, enabling them to make data-driven decisions to enhance their product pages and boost overall engagement.
+
+NB: TechSavvy Inc. is a fictional company created for the purpose of this A/B testing project demonstration.
+
+
