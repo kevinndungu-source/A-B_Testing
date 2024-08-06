@@ -29,3 +29,4 @@ df = pd.DataFrame(data)
 
 # Save the DataFrame to a CSV file
 df.to_csv('techsavvy_ab_test_data.csv', index=False)
+```
