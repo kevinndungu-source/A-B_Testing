@@ -9,11 +9,32 @@ In today's competitive e-commerce landscape, user engagement is crucial for driv
 I, Kevin, an experienced AWS Certified Solutions Architect and Data Analyst, was brought in to tackle this problem. Leveraging my expertise in A/B testing, data analysis, and business intelligence, I devised a comprehensive plan to address TechSavvy Inc.'s challenge.
 
 
-## Understanding the Problem
+### Understanding the Problem
 
 **TechSavvy Inc.** had observed that users were spending less time on product pages and that the click-through rate for the "Add to Cart" button had decreased. The goal was to test a hypothesis: would a green "Add to Cart" button capture more user attention and encourage more clicks compared to the existing blue button?
 
 **Objective**: Increase user engagement and conversion rates by optimizing the "Add to Cart" button color.
+
+---
+>### Definitions
+>
+>1. **A/B Testing**: A method of comparing two versions of a webpage or app against each other to determine which one performs better.
+>
+>2. **Control Group (Group A)**: The group that experiences the original version of the product or feature.
+>
+>3. **Treatment Group (Group B)**: The group that experiences the modified version of the product or feature.
+>
+>4. **Conversion Rate**: The percentage of users who complete a desired action (e.g., clicking the "Add to Cart" button).
+>
+>5. **T-Test**: A statistical test used to determine if there are significant differences between the means of two groups.
+>
+>6. **Chi-Square Test**: A statistical test used to determine if there is a significant association between two categorical variables.
+>
+>7. **P-Value**: The probability that the observed results are due to chance. A low p-value (typically < 0.05) indicates that the results are statistically significant.
+>
+>8. **Null Hypothesis**: The hypothesis that there is no effect or difference. In A/B testing, it assumes that any observed difference between the control and treatment groups is due to random chance.
+>
+>9. **Alternative Hypothesis**: The hypothesis that there is an effect or difference. In A/B testing, it assumes that any observed difference between the control and treatment groups is due to the change being tested.
 
 ---
 
