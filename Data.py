@@ -1,6 +1,6 @@
 # Running this script will generate the dataset and save it as techsavvy_ab_test_data.csv in the current working directory.
 
-```python
+
 import pandas as pd
 import numpy as np
 
@@ -29,4 +29,4 @@ df = pd.DataFrame(data)
 
 # Save the DataFrame to a CSV file
 df.to_csv('techsavvy_ab_test_data.csv', index=False)
-```
+
