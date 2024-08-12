@@ -348,7 +348,7 @@ plt.show()
 
 #### EXPLANATION OF THE GENERATED FIGURES
 
-Explanation of the Generated Figures:
+[![Statistical visuals](image.png)](https://github.com/kevinndungu-source/A-B_Testing/blob/main/Code/Data_Analysis.ipynb)
 
 The figure above consists of two key visualizations:
 
