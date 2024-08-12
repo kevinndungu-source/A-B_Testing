@@ -154,13 +154,13 @@ The output you've received shows the conversion rates for both the control group
 >2\. **Data-Driven Decision Making:**
 >
 >   - The results of this A/B test provide a solid, data-backed foundation for making decisions. Instead of relying on intuition, Tech-Savvy can confidently move forward with the changes >that have been statistically shown to improve user behavior.
-
-3\. **Optimization and Iteration:**
-
+>
+>3\. **Optimization and Iteration:**
+>
 >   - Even though the improvement is moderate (from 10% to 12%), it demonstrates the value of continuous testing and optimization. Tech-Savvy can use this approach regularly to >incrementally improve their user interface and user experience, leading to better business outcomes over time.
-
-4\. **Understanding User Preferences:**
-
+>
+>4\. **Understanding User Preferences:**
+>
 >   - This test gives the company insights into what resonates better with their users. Understanding the specific changes that led to the increase can help in crafting future features or >marketing strategies that align more closely with user preferences.
 >
 In summary, this A/B test has shown that the modifications introduced in Group B led to a measurable improvement in conversion rates, which can translate directly into increased revenue for the company. These results are crucial for making informed, strategic decisions to enhance the company's offerings and user satisfaction.
@@ -350,7 +350,7 @@ plt.show()
 
 Explanation of the Generated Figures:
 
-The attached figures consist of two key visualizations:
+The figure above consists of two key visualizations:
 
 1\. **Conversion Rate by Group (Bar Plot):**
 
