@@ -72,16 +72,20 @@ To prepare for the experiment, I simulated a dataset representing user interacti
 The code block below generates the synthetic dataset for our simulation:
 
 ```python
-# Import necessary libraries
+# Running this script will generate the dataset and save it as techsavvy_ab_test_data.csv in the current working directory.
+
+# Import the necessary libraries.
+
 import pandas as pd
 import numpy as np
-from scipy import stats
-import matplotlib.pyplot as plt
-import seaborn as sns
 
-# Simulate data
+# Set the random seed for reproducibility
 np.random.seed(42)
+
+# Number of users
 n_users = 10000
+
+# Simulate the data
 data = {
     'user_id': range(1, n_users + 1),
     'group': np.random.choice(['A', 'B'], n_users),
@@ -95,7 +99,11 @@ treatment_mask = (data['group'] == 'B')
 data['clicked_add_to_cart'][treatment_mask] = np.random.binomial(1, 0.12, treatment_mask.sum())
 data['session_duration'][treatment_mask] += 5
 
+# Create a DataFrame
 df = pd.DataFrame(data)
+
+# Save the DataFrame to a CSV file
+df.to_csv('techsavvy_ab_test_data.csv', index=False)
 ```
 
 ---
