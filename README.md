@@ -40,6 +40,9 @@ I, Kevin, an experienced AWS Certified Solutions Architect and Data Analyst, was
 
 ## Step-by-Step Solution
 
+> To follow along, the Juypiter Notebook, data-generation script and dataset can be found in this [directory.](https://github.com/kevinndungu-source/A-B_Testing/tree/main/Code)
+>
+
 ### 1. **Define Hypothesis**
 
 I proposed the following hypothesis:
