@@ -199,7 +199,7 @@ print(f"P-Value (t-test): {p_value_ttest:.4f}")
 
 #### T-STATISTIC AND P-VALUE RESULTS EXPLANATION
 
-The output from your t-test analysis is as follows:
+The output from the t-test analysis is as follows:
 >
 >- **T-Statistic:** -2.41
 >
@@ -265,7 +265,7 @@ print(f"P-Value (chi-square): {p_value_chi2:.4f}")
 
 #### Chi-TEST RESULTS EXPLANATION
 
-The output from your Chi-Square test is as follows:
+The output from the Chi-Square test is as follows:
 >
 >- **Chi-Square Statistic:** 5.66
 >
