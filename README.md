@@ -146,29 +146,29 @@ The output you've received shows the conversion rates for both the control group
 
 >1\. **Conversion Rate A (10%):**
 >
->  - This is the conversion rate for the control group, which represents the users who experienced the original version of the webpage or feature. Out of all users in this group, 10% >clicked the "Add to Cart" button.
+>  - This is the conversion rate for the control group, which represents the users who experienced the original version of the webpage or feature. Out of all users in this group, 10% clicked the "Add to Cart" button.
 >
 >2\. **Conversion Rate B (12%):**
 >
->   - This is the conversion rate for the treatment group, which represents the users who experienced the modified version of the webpage or feature. In this group, 12% of users clicked >the "Add to Cart" button.
+>   - This is the conversion rate for the treatment group, which represents the users who experienced the modified version of the webpage or feature. In this group, 12% of users clicked the "Add to Cart" button.
 
 #### Interpretation & Value to Tech-Savvy:
 
->The A/B test reveals that the conversion rate in the treatment group (12%) is slightly higher than in the control group (10%). This suggests that the changes made to the webpage or >feature in the treatment group had a positive effect, leading to a higher percentage of users taking the desired action (clicking "Add to Cart").
+>The A/B test reveals that the conversion rate in the treatment group (12%) is slightly higher than in the control group (10%). This suggests that the changes made to the webpage or feature in the treatment group had a positive effect, leading to a higher percentage of users taking the desired action (clicking "Add to Cart").
 >
 #### Value to the Tech-Savvy Company:
 
 >1\. **Improved User Engagement:**
 >
->   - The higher conversion rate in Group B indicates that the modified version is more effective at engaging users. This insight can guide the company to implement these changes across >their platform, potentially leading to increased sales.
+>   - The higher conversion rate in Group B indicates that the modified version is more effective at engaging users. This insight can guide the company to implement these changes across its platform, potentially leading to increased sales.
 >
 >2\. **Data-Driven Decision Making:**
 >
->   - The results of this A/B test provide a solid, data-backed foundation for making decisions. Instead of relying on intuition, Tech-Savvy can confidently move forward with the changes >that have been statistically shown to improve user behavior.
+>   - The results of this A/B test provide a solid, data-backed foundation for making decisions. Instead of relying on intuition, Tech-Savvy can confidently move forward with the changes statistically shown to improve user behavior.
 >
 >3\. **Optimization and Iteration:**
 >
->   - Even though the improvement is moderate (from 10% to 12%), it demonstrates the value of continuous testing and optimization. Tech-Savvy can use this approach regularly to >incrementally improve their user interface and user experience, leading to better business outcomes over time.
+>   - Even though the improvement is moderate (from 10% to 12%), it demonstrates the value of continuous testing and optimization. Tech-Savvy can use this approach regularly to incrementally improve their user interface and user experience incrementally, leading to better business outcomes over time.
 >
 >4\. **Understanding User Preferences:**
 >
@@ -213,13 +213,13 @@ The output from the t-test analysis is as follows:
 
 >1\. **T-Statistic (-2.41):**
 >
->   - The t-statistic is a measure of the difference between the means of the two groups (Group A and Group B) relative to the variation in the data. In this case, a negative t-statistic >indicates that the mean conversion rate of Group A is lower than that of Group B. The magnitude of the t-statistic suggests how large the difference is in standard error units. A t->statistic of -2.41 means that the observed difference is 2.41 times the standard error.
+>   - The t-statistic is a measure of the difference between the means of the two groups (Group A and Group B) relative to the variation in the data. In this case, a negative t-statistic indicates that the mean conversion rate of Group A is lower than that of Group B. The magnitude of the t-statistic suggests how large the difference is in standard error units. A t->statistic of -2.41 means that the observed difference is 2.41 times the standard error.
 >
 >2\. **P-Value (0.0159):**
 >
->   - The p-value represents the probability of observing the data, or something more extreme, assuming that the null hypothesis is true. The null hypothesis in this case posits that >there is no difference in conversion rates between Group A and Group B.
+>   - The p-value represents the probability of observing the data, or something more extreme, assuming that the null hypothesis is true. The null hypothesis in this case posits that there is no difference in conversion rates between Group A and Group B.
 >
->   - A p-value of 0.0159 indicates that there is only a 1.59% chance that the observed difference (or a more extreme one) could have occurred under the assumption that there is no real >difference between the groups. Typically, a p-value less than 0.05 is considered statistically significant, meaning that the observed difference is unlikely to be due to random chance.
+>   - A p-value of 0.0159 indicates that there is only a 1.59% chance that the observed difference (or a more extreme one) could have occurred under the assumption that there is no real difference between the groups. Typically, a p-value less than 0.05 is considered statistically significant, meaning that the observed difference is unlikely to be due to random chance.
 
 #### Interpretation & Value to Tech-Savvy:
 
@@ -239,11 +239,11 @@ The output from the t-test analysis is as follows:
 >
 >2\. **Business Impact:**
 >
->   - By identifying and validating improvements that increase conversion rates, the company can potentially increase revenue. Even small percentage increases in conversion rates can lead to substantial financial gains, especially at scale.
+>   - The company can potentially increase revenue by identifying and validating improvements that increase conversion rates. Even small percentage increases in conversion rates can lead to substantial financial gains, especially at scale.
 >
 >3\. **Informed Strategy:**
 >
->   - The company can use this evidence to guide future strategies and A/B tests. Understanding what works allows Tech-Savvy to continually optimize their user experience, leading to better customer satisfaction and competitive advantage.
+>   - The company can use this evidence to guide future strategies and A/B tests. Understanding what works allows Tech-Savvy to continually optimize its user experience, leading to better customer satisfaction and competitive advantage.
 >
 >In summary, the t-test results strongly suggest that the changes made in the treatment group (Group B) are effective in improving user conversion rates. This insight is valuable for making informed, data-driven decisions that can positively impact the company's bottom line.
 >
@@ -278,7 +278,7 @@ The output from the Chi-Square test is as follows:
 
 >1\. **Chi-Square Statistic (5.66):**
 >
->   - The Chi-Square statistic is a measure of how much the observed frequencies in your contingency table deviate from the expected frequencies under the null hypothesis (which assumes >no association between the group and the "Add to Cart" action). A higher Chi-Square statistic suggests a greater discrepancy between observed and expected frequencies, indicating a >stronger association.
+>   - The Chi-Square statistic is a measure of how much the observed frequencies in your contingency table deviate from the expected frequencies under the null hypothesis (which assumes >no association between the group and the "Add to Cart" action). A higher Chi-Square statistic suggests a greater discrepancy between observed and expected frequencies, indicating a stronger association.
 >
 >2\. **P-Value (0.0173):**
 >
