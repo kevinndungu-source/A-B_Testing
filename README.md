@@ -489,6 +489,6 @@ In summary, this conclusion validates the effectiveness of the button color chan
 
 - [T-Test: What It Is With Multiple Formulas and When To Use Them.](https://www.investopedia.com/terms/t/t-test.asp#:~:text=A%20t%2Dtest%20is%20an,flipping%20a%20coin%20100%20times.) 
 
-- [Chi-Square (χ2) Statistic: What It Is, Examples, How and When to Use the Test](https://www.investopedia.com/terms/c/chi-square-statistic.asp)
+- [Chi-Square (χ2) Statistic: What It Is, Examples, How and When to Use the Test.](https://www.investopedia.com/terms/c/chi-square-statistic.asp)
 
 ---
